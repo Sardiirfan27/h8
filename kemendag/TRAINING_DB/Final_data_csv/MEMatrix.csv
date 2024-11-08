@@ -1,0 +1,151 @@
+MatrixID,TrainingID,EvaluasiPenyelenggaraan,EvaluasiPeningkatanKompetensi,EvaluasiDampakPerilaku,CatatanTambahan,UnitKerja,HasilPostTrainingSurvey,IndikasiDampak
+1,36,1,3,2,Perlu Peningkatan,Divisi A,Kurang Berguna,Negatif
+2,139,2,4,1,Signifikan,Divisi C,Kurang Berguna,Negatif
+3,82,3,3,3,Moderate,Divisi D,Sangat Berguna,Neutral
+4,116,4,5,1,Moderate,Divisi D,Kurang Berguna,Positif
+5,55,3,1,4,Baik,Divisi C,Kurang Berguna,Neutral
+6,28,5,5,5,Signifikan,Divisi C,Berguna,Negatif
+7,98,1,3,2,Baik,Divisi B,Kurang Berguna,Positif
+8,117,2,5,4,Baik,Divisi B,Kurang Berguna,Negatif
+9,131,5,2,4,Baik,Divisi D,Kurang Berguna,Negatif
+10,42,2,4,2,Perlu Peningkatan,Divisi C,Sangat Berguna,Neutral
+11,12,1,2,3,Signifikan,Divisi C,Berguna,Positif
+12,115,5,1,5,Baik,Divisi A,Sangat Berguna,Positif
+13,82,4,5,1,Perlu Peningkatan,Divisi A,Kurang Berguna,Positif
+14,77,3,3,1,Perlu Peningkatan,Divisi A,Sangat Berguna,Positif
+15,116,4,1,4,Moderate,Divisi D,Berguna,Positif
+16,4,4,1,3,Signifikan,Divisi D,Berguna,Positif
+17,70,3,2,3,Perlu Peningkatan,Divisi C,Sangat Berguna,Neutral
+18,18,5,4,5,Moderate,Divisi C,Kurang Berguna,Neutral
+19,2,2,3,1,Moderate,Divisi B,Sangat Berguna,Positif
+20,35,2,1,3,Perlu Peningkatan,Divisi B,Berguna,Neutral
+21,61,1,2,3,Baik,Divisi B,Kurang Berguna,Positif
+22,91,5,5,5,Perlu Peningkatan,Divisi D,Berguna,Positif
+23,69,2,5,3,Signifikan,Divisi D,Sangat Berguna,Neutral
+24,34,3,3,4,Signifikan,Divisi C,Berguna,Negatif
+25,113,2,4,5,Signifikan,Divisi D,Berguna,Positif
+26,53,5,1,4,Moderate,Divisi D,Sangat Berguna,Negatif
+27,105,3,2,5,Perlu Peningkatan,Divisi B,Berguna,Positif
+28,98,2,4,5,Perlu Peningkatan,Divisi A,Sangat Berguna,Negatif
+29,33,1,1,2,Perlu Peningkatan,Divisi A,Sangat Berguna,Negatif
+30,97,3,3,4,Signifikan,Divisi A,Berguna,Positif
+31,130,2,3,2,Perlu Peningkatan,Divisi B,Kurang Berguna,Positif
+32,61,1,1,5,Baik,Divisi D,Sangat Berguna,Neutral
+33,124,1,4,5,Baik,Divisi A,Berguna,Negatif
+34,24,1,2,5,Baik,Divisi D,Kurang Berguna,Neutral
+35,132,1,3,5,Baik,Divisi A,Sangat Berguna,Neutral
+36,107,2,3,1,Baik,Divisi B,Kurang Berguna,Negatif
+37,24,2,5,1,Baik,Divisi B,Berguna,Negatif
+38,65,4,1,5,Baik,Divisi D,Berguna,Positif
+39,44,5,1,2,Signifikan,Divisi D,Berguna,Negatif
+40,9,3,4,1,Moderate,Divisi B,Berguna,Negatif
+41,149,2,3,4,Signifikan,Divisi C,Sangat Berguna,Positif
+42,12,4,3,3,Perlu Peningkatan,Divisi B,Kurang Berguna,Negatif
+43,27,5,1,5,Perlu Peningkatan,Divisi A,Kurang Berguna,Neutral
+44,44,1,3,4,Moderate,Divisi A,Kurang Berguna,Negatif
+45,11,3,5,2,Baik,Divisi D,Kurang Berguna,Neutral
+46,93,3,4,2,Perlu Peningkatan,Divisi A,Sangat Berguna,Positif
+47,22,2,3,5,Perlu Peningkatan,Divisi C,Sangat Berguna,Neutral
+48,63,3,4,3,Baik,Divisi C,Kurang Berguna,Positif
+49,37,3,3,2,Perlu Peningkatan,Divisi A,Kurang Berguna,Neutral
+50,90,2,2,3,Moderate,Divisi D,Berguna,Negatif
+51,16,3,5,2,Perlu Peningkatan,Divisi D,Berguna,Negatif
+52,33,4,5,3,Signifikan,Divisi A,Sangat Berguna,Negatif
+53,7,1,1,5,Moderate,Divisi C,Kurang Berguna,Positif
+54,134,3,4,3,Moderate,Divisi A,Kurang Berguna,Negatif
+55,28,1,4,2,Moderate,Divisi A,Kurang Berguna,Negatif
+56,114,5,1,3,Moderate,Divisi A,Sangat Berguna,Positif
+57,139,2,3,4,Baik,Divisi A,Sangat Berguna,Neutral
+58,59,4,4,1,Moderate,Divisi B,Kurang Berguna,Negatif
+59,22,4,3,2,Signifikan,Divisi D,Sangat Berguna,Negatif
+60,91,4,3,3,Moderate,Divisi A,Sangat Berguna,Neutral
+61,7,2,3,2,Signifikan,Divisi D,Berguna,Neutral
+62,62,5,4,2,Perlu Peningkatan,Divisi D,Kurang Berguna,Positif
+63,54,2,3,2,Perlu Peningkatan,Divisi A,Kurang Berguna,Negatif
+64,17,5,4,5,Perlu Peningkatan,Divisi A,Kurang Berguna,Positif
+65,12,1,4,1,Signifikan,Divisi C,Berguna,Neutral
+66,113,1,4,3,Perlu Peningkatan,Divisi B,Sangat Berguna,Negatif
+67,74,2,4,4,Signifikan,Divisi A,Kurang Berguna,Negatif
+68,33,1,1,5,Perlu Peningkatan,Divisi C,Berguna,Negatif
+69,52,5,4,2,Signifikan,Divisi D,Sangat Berguna,Positif
+70,3,2,5,3,Baik,Divisi A,Kurang Berguna,Neutral
+71,43,4,1,1,Baik,Divisi B,Berguna,Neutral
+72,8,1,5,4,Perlu Peningkatan,Divisi C,Berguna,Negatif
+73,2,2,5,1,Perlu Peningkatan,Divisi C,Berguna,Positif
+74,78,2,5,5,Signifikan,Divisi C,Sangat Berguna,Positif
+75,95,2,1,2,Perlu Peningkatan,Divisi B,Kurang Berguna,Positif
+76,125,5,1,2,Moderate,Divisi A,Berguna,Negatif
+77,112,3,2,4,Signifikan,Divisi C,Sangat Berguna,Negatif
+78,43,1,1,1,Signifikan,Divisi A,Kurang Berguna,Neutral
+79,29,1,3,2,Baik,Divisi D,Kurang Berguna,Negatif
+80,103,2,3,4,Perlu Peningkatan,Divisi C,Berguna,Positif
+81,99,3,4,5,Signifikan,Divisi B,Sangat Berguna,Neutral
+82,148,5,4,4,Signifikan,Divisi C,Kurang Berguna,Neutral
+83,103,3,5,4,Perlu Peningkatan,Divisi C,Berguna,Neutral
+84,60,5,3,1,Perlu Peningkatan,Divisi A,Sangat Berguna,Negatif
+85,60,4,1,2,Perlu Peningkatan,Divisi D,Sangat Berguna,Positif
+86,89,5,4,5,Moderate,Divisi B,Kurang Berguna,Negatif
+87,81,5,4,1,Baik,Divisi D,Kurang Berguna,Neutral
+88,22,5,5,1,Baik,Divisi B,Kurang Berguna,Neutral
+89,55,5,3,4,Signifikan,Divisi C,Berguna,Positif
+90,135,5,2,2,Signifikan,Divisi C,Berguna,Positif
+91,73,1,3,4,Signifikan,Divisi C,Sangat Berguna,Neutral
+92,26,4,5,1,Baik,Divisi C,Sangat Berguna,Negatif
+93,20,2,2,1,Baik,Divisi B,Kurang Berguna,Neutral
+94,75,2,3,5,Baik,Divisi A,Sangat Berguna,Positif
+95,88,1,4,1,Perlu Peningkatan,Divisi D,Kurang Berguna,Positif
+96,103,3,5,1,Signifikan,Divisi B,Berguna,Neutral
+97,147,2,1,1,Signifikan,Divisi B,Kurang Berguna,Positif
+98,136,1,3,4,Baik,Divisi A,Berguna,Neutral
+99,13,4,5,2,Perlu Peningkatan,Divisi C,Sangat Berguna,Neutral
+100,146,1,2,3,Baik,Divisi A,Berguna,Negatif
+101,90,2,3,5,Moderate,Divisi D,Kurang Berguna,Positif
+102,43,5,2,3,Signifikan,Divisi A,Kurang Berguna,Positif
+103,97,4,3,3,Moderate,Divisi C,Sangat Berguna,Negatif
+104,22,3,3,1,Baik,Divisi C,Berguna,Negatif
+105,99,1,2,1,Baik,Divisi C,Kurang Berguna,Negatif
+106,30,4,5,1,Moderate,Divisi C,Kurang Berguna,Neutral
+107,125,5,5,2,Perlu Peningkatan,Divisi C,Berguna,Positif
+108,119,1,4,3,Moderate,Divisi D,Berguna,Negatif
+109,83,5,3,1,Signifikan,Divisi C,Sangat Berguna,Negatif
+110,2,3,2,4,Baik,Divisi C,Kurang Berguna,Positif
+111,43,2,3,2,Perlu Peningkatan,Divisi D,Berguna,Neutral
+112,97,3,1,1,Perlu Peningkatan,Divisi D,Kurang Berguna,Positif
+113,1,3,2,5,Moderate,Divisi A,Berguna,Neutral
+114,122,1,4,2,Signifikan,Divisi B,Berguna,Negatif
+115,85,5,4,1,Perlu Peningkatan,Divisi D,Kurang Berguna,Positif
+116,58,5,1,1,Perlu Peningkatan,Divisi C,Kurang Berguna,Negatif
+117,10,5,3,3,Perlu Peningkatan,Divisi D,Kurang Berguna,Negatif
+118,66,5,1,1,Moderate,Divisi A,Berguna,Neutral
+119,120,1,3,3,Moderate,Divisi C,Kurang Berguna,Neutral
+120,45,1,4,1,Moderate,Divisi B,Berguna,Positif
+121,116,5,2,2,Signifikan,Divisi C,Berguna,Neutral
+122,39,3,4,4,Moderate,Divisi B,Sangat Berguna,Negatif
+123,28,5,1,5,Moderate,Divisi B,Kurang Berguna,Positif
+124,3,1,3,1,Baik,Divisi C,Kurang Berguna,Neutral
+125,66,3,5,5,Baik,Divisi B,Berguna,Positif
+126,23,4,1,3,Baik,Divisi B,Sangat Berguna,Negatif
+127,90,4,4,1,Perlu Peningkatan,Divisi C,Sangat Berguna,Positif
+128,140,4,5,5,Moderate,Divisi D,Sangat Berguna,Negatif
+129,143,4,4,5,Baik,Divisi D,Berguna,Positif
+130,34,4,1,2,Baik,Divisi D,Kurang Berguna,Negatif
+131,143,2,2,2,Baik,Divisi A,Sangat Berguna,Negatif
+132,128,1,4,1,Moderate,Divisi C,Kurang Berguna,Neutral
+133,104,2,5,4,Signifikan,Divisi B,Kurang Berguna,Negatif
+134,65,1,1,2,Perlu Peningkatan,Divisi A,Sangat Berguna,Negatif
+135,73,2,4,1,Perlu Peningkatan,Divisi C,Sangat Berguna,Positif
+136,86,5,1,2,Baik,Divisi B,Sangat Berguna,Neutral
+137,137,4,5,3,Signifikan,Divisi B,Berguna,Negatif
+138,13,2,2,2,Moderate,Divisi B,Berguna,Negatif
+139,48,2,3,1,Baik,Divisi A,Kurang Berguna,Positif
+140,100,4,2,2,Baik,Divisi D,Sangat Berguna,Neutral
+141,103,5,4,5,Baik,Divisi C,Sangat Berguna,Positif
+142,32,2,4,2,Perlu Peningkatan,Divisi D,Sangat Berguna,Negatif
+143,111,5,5,1,Baik,Divisi B,Sangat Berguna,Neutral
+144,6,3,2,4,Perlu Peningkatan,Divisi C,Sangat Berguna,Neutral
+145,20,5,3,4,Signifikan,Divisi B,Berguna,Positif
+146,68,1,1,4,Moderate,Divisi B,Kurang Berguna,Neutral
+147,95,1,3,4,Perlu Peningkatan,Divisi D,Berguna,Positif
+148,93,5,3,2,Baik,Divisi C,Sangat Berguna,Positif
+149,145,5,4,4,Moderate,Divisi B,Sangat Berguna,Positif
+150,99,2,2,1,Baik,Divisi B,Kurang Berguna,Negatif

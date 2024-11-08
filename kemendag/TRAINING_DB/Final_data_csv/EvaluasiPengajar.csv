@@ -1,0 +1,150 @@
+EvaluasiPengajarID,PengajarID,TrainingID,KeahlianPengajar,KemampuanMenyampaikan,Kedisiplinan,JumlahSesi,UsiaPengajar,LamaPengalaman,FeedbackLainnya
+2,1,109,3,3,5,8,55,10,Baik
+3,2,88,4,1,5,9,39,14,Sangat Baik
+4,3,95,1,1,3,8,34,4,Cukup Baik
+5,4,50,1,5,5,3,60,5,Perlu Peningkatan
+6,5,125,5,3,3,5,50,8,Sangat Baik
+7,6,60,5,4,5,10,30,4,Cukup Baik
+8,7,48,3,2,2,8,58,5,Perlu Peningkatan
+9,8,142,4,5,4,1,60,6,Sangat Baik
+10,9,25,2,5,2,10,29,6,Perlu Peningkatan
+11,10,103,2,3,3,5,59,12,Baik
+12,11,133,1,3,1,8,56,16,Baik
+13,12,136,3,3,3,8,50,10,Perlu Peningkatan
+14,13,144,5,2,4,6,34,1,Perlu Peningkatan
+15,14,145,5,2,5,8,27,11,Baik
+16,15,86,4,2,5,2,29,11,Baik
+17,16,147,2,5,4,4,48,11,Perlu Peningkatan
+18,17,50,3,5,5,7,42,11,Cukup Baik
+19,18,96,3,3,1,3,31,13,Perlu Peningkatan
+20,19,54,1,2,2,10,52,4,Baik
+21,20,58,1,3,2,2,41,14,Sangat Baik
+22,21,23,4,4,3,9,43,4,Perlu Peningkatan
+23,22,4,4,3,5,1,26,10,Cukup Baik
+24,23,9,5,1,2,5,29,13,Sangat Baik
+25,24,147,4,2,3,7,55,1,Cukup Baik
+26,25,113,1,4,1,9,49,7,Perlu Peningkatan
+27,26,65,2,4,4,10,48,10,Cukup Baik
+28,27,131,1,1,4,10,42,12,Sangat Baik
+29,28,2,4,3,1,5,38,13,Baik
+30,29,32,3,3,5,8,32,7,Baik
+31,30,70,4,1,4,2,57,18,Perlu Peningkatan
+32,31,134,5,4,4,4,33,19,Baik
+33,32,126,4,2,1,7,47,16,Sangat Baik
+34,33,49,3,5,2,7,31,17,Cukup Baik
+35,34,107,1,3,3,1,54,3,Perlu Peningkatan
+36,35,2,5,3,5,10,42,6,Cukup Baik
+37,36,69,4,1,2,5,43,2,Sangat Baik
+38,37,100,5,5,5,4,57,18,Perlu Peningkatan
+39,38,19,3,3,2,10,45,4,Sangat Baik
+40,39,94,4,1,2,9,31,10,Baik
+41,40,131,4,2,1,5,32,13,Cukup Baik
+42,41,74,5,3,1,10,47,6,Baik
+43,42,145,5,4,3,4,34,14,Perlu Peningkatan
+44,43,15,1,3,5,2,52,12,Sangat Baik
+45,44,69,5,4,3,3,59,19,Sangat Baik
+46,45,12,5,1,2,7,26,6,Baik
+47,46,42,5,3,2,7,41,4,Baik
+48,47,74,2,4,4,5,53,10,Sangat Baik
+49,48,137,1,5,2,5,55,10,Sangat Baik
+50,49,35,2,5,3,4,38,14,Baik
+51,50,89,1,3,5,2,58,19,Baik
+52,51,67,4,4,3,4,29,15,Perlu Peningkatan
+53,52,36,2,1,4,1,41,2,Cukup Baik
+54,53,110,1,4,5,9,48,17,Perlu Peningkatan
+55,54,70,5,2,3,4,52,17,Baik
+56,55,73,5,2,5,10,25,19,Perlu Peningkatan
+57,56,72,2,3,5,6,38,13,Perlu Peningkatan
+58,57,8,2,5,2,4,46,6,Sangat Baik
+59,58,136,1,5,4,3,46,13,Sangat Baik
+60,59,8,1,3,3,10,47,2,Sangat Baik
+61,60,5,3,2,1,6,57,11,Baik
+62,61,25,2,3,3,7,34,10,Sangat Baik
+63,62,142,4,4,1,10,36,17,Sangat Baik
+64,63,124,5,4,1,9,25,17,Sangat Baik
+65,64,126,1,2,2,6,49,1,Perlu Peningkatan
+66,65,43,1,3,4,10,30,8,Sangat Baik
+67,66,43,4,1,5,4,56,16,Baik
+68,67,110,1,2,4,6,42,3,Sangat Baik
+69,68,138,5,4,2,3,34,2,Cukup Baik
+70,69,79,2,2,1,10,57,13,Sangat Baik
+71,70,2,4,5,3,6,31,15,Perlu Peningkatan
+72,71,52,4,5,2,5,57,7,Sangat Baik
+73,72,141,5,4,2,8,48,4,Cukup Baik
+74,73,91,1,1,3,7,40,18,Cukup Baik
+75,74,93,1,5,1,10,44,17,Sangat Baik
+76,75,77,2,1,1,5,58,14,Sangat Baik
+77,76,37,1,3,3,4,48,6,Baik
+78,77,148,1,5,4,8,45,6,Perlu Peningkatan
+79,78,64,4,1,3,6,53,18,Sangat Baik
+80,79,92,2,5,3,1,59,1,Perlu Peningkatan
+81,80,48,1,5,2,5,54,15,Perlu Peningkatan
+82,81,108,4,1,3,6,57,6,Perlu Peningkatan
+83,82,81,4,1,3,8,53,16,Cukup Baik
+84,83,53,4,4,1,6,32,2,Sangat Baik
+85,84,134,1,4,4,2,43,17,Cukup Baik
+86,85,121,3,4,2,1,52,14,Sangat Baik
+87,86,1,5,1,1,8,57,12,Perlu Peningkatan
+88,87,77,2,4,4,8,50,7,Cukup Baik
+89,88,113,1,1,5,6,58,4,Sangat Baik
+90,89,14,3,3,1,1,25,18,Cukup Baik
+91,90,127,5,5,3,10,41,17,Cukup Baik
+92,91,141,1,5,1,5,56,15,Sangat Baik
+93,92,17,5,2,5,1,56,12,Perlu Peningkatan
+94,93,96,5,4,5,5,43,12,Baik
+95,94,68,3,3,1,9,53,6,Baik
+96,95,65,2,3,2,2,38,5,Cukup Baik
+97,96,10,4,2,4,1,49,11,Baik
+98,97,55,4,1,5,2,52,5,Perlu Peningkatan
+99,98,7,3,4,4,7,41,11,Cukup Baik
+100,99,142,4,4,5,1,40,16,Cukup Baik
+101,100,64,3,1,1,4,54,16,Cukup Baik
+102,101,110,5,4,3,7,27,12,Cukup Baik
+103,102,94,2,1,2,9,35,17,Cukup Baik
+104,103,125,4,3,4,7,31,10,Sangat Baik
+105,104,60,2,1,5,2,47,7,Cukup Baik
+106,105,15,3,4,2,8,27,20,Baik
+107,106,71,1,2,2,10,52,17,Baik
+108,107,136,1,5,1,9,44,9,Baik
+109,108,102,2,5,3,1,52,17,Perlu Peningkatan
+110,109,101,1,3,1,9,26,16,Cukup Baik
+111,110,55,5,5,5,8,60,3,Perlu Peningkatan
+112,111,121,2,5,4,7,28,15,Cukup Baik
+113,112,100,3,4,4,1,57,13,Cukup Baik
+114,113,7,2,2,1,3,60,1,Cukup Baik
+115,114,16,3,2,4,9,31,18,Sangat Baik
+116,115,14,3,2,2,3,31,1,Perlu Peningkatan
+117,116,41,2,4,2,1,38,3,Perlu Peningkatan
+118,117,31,5,1,3,5,50,20,Sangat Baik
+119,118,107,5,2,4,2,59,6,Sangat Baik
+120,119,98,2,3,1,6,52,15,Perlu Peningkatan
+121,120,49,1,5,1,7,40,5,Sangat Baik
+122,121,117,5,5,2,10,44,4,Perlu Peningkatan
+123,122,41,1,5,2,9,25,9,Perlu Peningkatan
+124,123,18,3,3,4,10,47,5,Sangat Baik
+125,124,144,5,3,5,1,59,19,Sangat Baik
+126,125,34,4,4,4,7,56,11,Sangat Baik
+127,126,124,5,2,2,2,33,6,Baik
+128,127,38,3,1,5,8,58,19,Perlu Peningkatan
+129,128,4,1,3,4,9,50,7,Baik
+130,129,38,1,4,3,2,45,14,Cukup Baik
+131,130,144,4,3,5,7,39,11,Baik
+132,131,118,2,1,3,6,57,15,Perlu Peningkatan
+133,132,72,5,2,4,9,49,16,Perlu Peningkatan
+134,133,114,3,4,4,2,50,4,Sangat Baik
+135,134,120,2,1,1,10,29,16,Cukup Baik
+136,135,57,3,5,2,9,56,17,Cukup Baik
+137,136,37,5,2,4,2,56,16,Sangat Baik
+138,137,61,3,3,2,1,45,4,Cukup Baik
+139,138,36,4,4,3,6,48,20,Perlu Peningkatan
+140,139,123,4,2,5,3,28,2,Baik
+141,140,97,2,1,3,8,51,6,Baik
+142,141,94,3,1,3,7,43,5,Baik
+143,142,63,2,3,2,6,47,20,Cukup Baik
+144,143,110,2,1,2,8,34,2,Baik
+145,144,75,5,2,5,4,60,8,Sangat Baik
+146,145,134,4,2,5,1,31,1,Sangat Baik
+147,146,63,4,2,3,1,34,9,Perlu Peningkatan
+148,147,29,3,4,1,1,54,17,Cukup Baik
+149,148,86,5,5,5,5,52,14,Perlu Peningkatan
+150,149,138,1,2,2,9,45,15,Sangat Baik
