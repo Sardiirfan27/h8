@@ -23,3 +23,30 @@ INSERT INTO teachers (first_name, last_name, school, hire_date, salary) VALUES
 ('David', 'Harris', 'Lincoln Elementary', '2013-07-15', 39000),
 ('Barbara', 'Martin', 'Myers Middle School', '2021-09-01', 37000),
 ('Richard', 'Thompson', 'Lincoln Elementary', '2015-02-23', 44000);
+
+
+CREATE TABLE employees (
+    employee_id INT AUTO_INCREMENT PRIMARY KEY,
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    department VARCHAR(100),
+    salary DECIMAL(10,2)
+);
+
+INSERT INTO employees (first_name, last_name, department, salary) VALUES
+('John', 'Doe', 'IT', 60000),
+('Jane', 'Smith', 'HR', 45000),
+('Sam', 'Brown', 'IT', 52000),
+('Emily', 'Clark', 'Finance', 70000),
+('Mike', 'Johnson', 'Finance', 72000),
+('Robert', 'Taylor', 'HR', 48000),
+('Patricia', 'Miller', 'IT', 55000),
+('Linda', 'Davis', 'Finance', 68000),
+('David', 'Wilson', 'IT', 51000),
+('Barbara', 'Anderson', 'HR', 47000),
+('William', 'Thomas', 'Marketing', 62000),
+('Elizabeth', 'Jackson', 'Marketing', 61000),
+('James', 'White', 'Marketing', 64000),
+('Mary', 'Harris', 'Finance', 71000),
+('Richard', 'Martin', 'HR', 46000);
+
